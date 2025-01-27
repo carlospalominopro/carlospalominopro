@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Carlos Palomino -  @carlospalominopro
-- 🎓 I’m Systems Engineer (2021)
-- 👀 I’m Javascript Fullstack Developer
-- 🌱 I’m currently studying English
+- 🎓 Systems Engineer
+- 🖥️ Software Developer - Since 2019
 - 💞️ I’m looking to collaborate in the best web development companies
 - 💛💙💗 Colombian
